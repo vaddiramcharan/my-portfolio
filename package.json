@@ -1,0 +1,22 @@
+{
+  "name": "vaddi-ram-charan-portfolio",
+  "version": "1.0.0",
+  "description": "Premium AI & Data Science Portfolio of Vaddi Ram Charan",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "portfolio",
+    "ai",
+    "data-science",
+    "gemini"
+  ],
+  "author": "Vaddi Ram Charan",
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "^5.3.1"
+  }
+}
